@@ -21,4 +21,4 @@ $ npm run generate
 
 ## Demo
 
-> https://nuxt-chat-app.herokuapp.com/
+> https://ittools-getaroom.herokuapp.com/
