@@ -47,7 +47,7 @@ module.exports = {
 
   pwa: {
     manifest: {
-      name: 'Nuxt.js PWA nuxt-chat-app',
+      name: 'Nuxt.js PWA chatapp',
       short_name: 'Nuxt.js PWA',
       start_url: '/',
       theme_color: '#424242',

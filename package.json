@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-chat-app",
+  "name": "getaroom-ittools",
   "version": "1.0.0",
   "description": "Simple chat on Nuxt.js",
-  "author": "Petr Borul",
+  "author": "emiri - r0488",
   "private": false,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
